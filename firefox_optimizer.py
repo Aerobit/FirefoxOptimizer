@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Firefox Optimizer: Firefox Security & Privacy Optimizer
-Version: 1.0
+Version: 1.0.0
 GitHub: https://github.com/Aerobit/FirefoxOptimizer
 
 This script optimizes the security and privacy of Firefox by modifying user preferences.
@@ -23,7 +23,7 @@ import json
 import configparser
 
 # Version number
-__version__ = "1.0"
+__version__ = "1.0.0"
 
 def banner():
     """
